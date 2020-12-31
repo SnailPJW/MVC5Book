@@ -2,15 +2,14 @@
 
 ![ASP.NET MVC 5 網站開發美學](http://www.gotop.com.tw/Waweb2004/WawebImages/BookXL/ACL041300.jpg)
 
-訂購資訊：絕版
--電子書[https://play.google.com/store/books/details/ASP_NET_MVC_5_%E7%B6%B2%E7%AB%99%E9%96%8B%E7%99%BC%E7%BE%8E%E5%AD%B8_%E9%9B%BB%E5%AD%90%E6%9B%B8?id=mQqnBAAAQBAJ&hl=zh_TW]
-
+訂購資訊：
+- 實體書(絕版)
+- [電子書](https://play.google.com/store/books/details/ASP_NET_MVC_5_%E7%B6%B2%E7%AB%99%E9%96%8B%E7%99%BC%E7%BE%8E%E5%AD%B8_%E9%9B%BB%E5%AD%90%E6%9B%B8?id=mQqnBAAAQBAJ&hl=zh_TW "電子書")
 
 ## 內容特色 ##
 
-- 學習 ASP.NET MVC 不可不看的經典教材，全新改版
-- 涵蓋 Visual Studio 2013 Update 2, MVC 5.2, Web API 2.2 等最新內容
-- 首先揭露 ASP.NET vNext: MVC 6 的神秘面紗
+- 涵蓋 Visual Studio 2013 Update 2, MVC 5.2, Web API 2.2 等內容
+- 揭露 ASP.NET vNext: MVC 6 的神秘面紗
 
 ASP.NET MVC 是微軟 Web 開發平台中最重要的一塊拼圖，也是微軟在 Web Forms 開發模式外的另一個選擇，不但具備了 MVC 開發模式的基礎，其架構特性更適合用來開發大型的 Web 應用程式，且 ASP.NET MVC 開發方式在台灣逐漸受到重視，因此學習 MVC 己是刻不容緩。本書作者群在 ASP.NET MVC 開發上均有豐富的實務經驗，讓讀者能夠快速進入 ASP.NET MVC 的世界。
 
