@@ -11,21 +11,18 @@
 - 涵蓋 Visual Studio 2013 Update 2, MVC 5.2, Web API 2.2 等內容
 - 揭露 ASP.NET vNext: MVC 6 的神秘面紗
 
-ASP.NET MVC 是微軟 Web 開發平台中最重要的一塊拼圖，也是微軟在 Web Forms 開發模式外的另一個選擇，不但具備了 MVC 開發模式的基礎，其架構特性更適合用來開發大型的 Web 應用程式，且 ASP.NET MVC 開發方式在台灣逐漸受到重視，因此學習 MVC 己是刻不容緩。本書作者群在 ASP.NET MVC 開發上均有豐富的實務經驗，讓讀者能夠快速進入 ASP.NET MVC 的世界。
-
-全書以 ASP.NET MVC 5 為主，應用範圍可涵蓋 MVC 2-5，豐富且扎實的 Model/View/Controller 教學，讓讀者能快速的進入 ASP.NET MVC 的開發領域內，對於需要學習 MVC 應用程式開發的初學者或是己經具備 Web Forms 開發經驗的程式設計師來說，本書是必定要閱讀的經典之作。
+全書以 ASP.NET MVC 5 為主，應用範圍可涵蓋 MVC 2-5，豐富且扎實的 Model/View/Controller 教學。
 
 本書重點內容：
 
-- 本書與前版不同，經過大幅改寫，呈現出完全不同的風貌
-- 涵蓋 MVC 5.2 RTM, Web API 2.2 RTM 及 Visual Studio 2013 Update 2 等最新內容
+- 涵蓋 MVC 5.2 RTM, Web API 2.2 RTM 及 Visual Studio 2013 Update 2 等內容
 - 快速學會 Model 的概念，LINQ 以及 Entity Framework 開發技術
 - 深度認識 Controller 以及如何靈活運用
 - 使用 Routing 技術，讓網站在搜尋引擎中擁有高排名
 - View + Bootstrap，無其他 MVC 書籍可望其項背
 - Web API 最詳實的教學與參考資料
 - 充實的網站安全性技術探討
-- 唯一介紹 ASP.NET Identity 的中文書
+- ASP.NET Identity
 - 完整的 CMS 個案範例，充份運用 MVC 的技術與特性
 - 搶先預覽 ASP.NET vNext 及 MVC 6
 
@@ -88,5 +85,8 @@ View在MVC應用程式中扮演了為應用程式擦脂抹粉的角色，所以�
 - 第十六章「CMS範例實戰」
 本章將以實例方式串連本章前面所有的章節，實作一個CMS範例應用程式。
 
-
+###社群介紹###
+- twMVC
+- SkillTree
+- Study4.TW
 
