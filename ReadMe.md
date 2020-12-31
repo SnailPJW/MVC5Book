@@ -3,7 +3,7 @@
 ![ASP.NET MVC 5 網站開發美學](http://www.gotop.com.tw/Waweb2004/WawebImages/BookXL/ACL041300.jpg)
 
 訂購資訊：絕版
--![電子書](https://play.google.com/store/books/details/ASP_NET_MVC_5_%E7%B6%B2%E7%AB%99%E9%96%8B%E7%99%BC%E7%BE%8E%E5%AD%B8_%E9%9B%BB%E5%AD%90%E6%9B%B8?id=mQqnBAAAQBAJ&hl=zh_TW)
+-電子書[https://play.google.com/store/books/details/ASP_NET_MVC_5_%E7%B6%B2%E7%AB%99%E9%96%8B%E7%99%BC%E7%BE%8E%E5%AD%B8_%E9%9B%BB%E5%AD%90%E6%9B%B8?id=mQqnBAAAQBAJ&hl=zh_TW]
 
 
 ## 內容特色 ##
